@@ -12,3 +12,4 @@
 
 #6 Stramkale Emīlija
 
+print(sin(radians(30)+fmod(13,2)))
